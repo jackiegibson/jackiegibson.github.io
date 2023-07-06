@@ -1,3 +1,7 @@
 .hero .hero-body {
   background-color: pink;
 }
+
+.tab-container { 
+  overflow: inherit !important;
+}
